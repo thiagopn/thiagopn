@@ -1,4 +1,5 @@
-- 👋 Olá! Me chamo Thiago Pinheiro do Nascimento.
+## Hello, World 😃
+- 👋 Me chamo Thiago Pinheiro do Nascimento.
 - 💬 Sou professor, pesquisador e nas horas vagas artesão de software.
 - 🎓 Possuo graduação em ciência da computação e mestrado em engenharia elétrica.
 - 👀 Tenho experiência com engenharia de software, banco de dados e inteligência artificial.
