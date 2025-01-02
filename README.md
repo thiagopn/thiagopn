@@ -1,7 +1,9 @@
-- 👋 Olá! Me chamo Thiago, sou professor de ciência da computação e desenvolvedor de software.
-- 👀 Sou interessado por desenvolvimento web e mobile, e também por aprendizado de máquina.
-- 🌱 Atualmente estou aprendendo sobre Spring, Quarkus, React Native, Keras e TensorFlow.
-- 📫 É possível entrar em contato comigo através do e-mail thiagopn.dev@gmail.com.
+- 👋 Olá! Me chamo Thiago Pinheiro do Nascimento.
+- 💬 Sou professor, pesquisador e nas horas vagas artesão de software.
+- 🎓 Possuo graduação em ciência da computação e mestrado em engenharia elétrica.
+- 👀 Tenho experiência com engenharia de software, banco de dados e inteligência artificial.
+- 🌱 Atualmente estou aprendendo mais sobre Spring, Quarkus, React Native, Keras, Caffe e TensorFlow.
+- 📫 É possível entrar em contato comigo através dos e-mails thiagopn.dev@gmail.com e thiago.nascimento@unifap.br.
 
 <!---
 thiagopn/thiagopn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
