@@ -1,7 +1,7 @@
-- 👋 Oi, meu nome é Thiago Pinheiro do Nascimento.
-- 👀 Sou interessado por desenvolvimento de aplicações web.
-- 🌱 Atualmente estou aprendendo sobre Spring, Quarkus e Rust. 
-- 📫 É possível me encontrar através do e-mail thiagopn.dev@gmail.com
+- 👋 Olá! Me chamo Thiago, sou professor de ciência da computação e desenvolvedor de software.
+- 👀 Sou interessado por desenvolvimento web e mobile, e também por aprendizado de máquina.
+- 🌱 Atualmente estou aprendendo sobre Spring, Quarkus, React Native, Keras e TensorFlow.
+- 📫 É possível entrar em contato comigo através do e-mail thiagopn.dev@gmail.com.
 
 <!---
 thiagopn/thiagopn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
