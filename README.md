@@ -1,6 +1,6 @@
 ## Welcome 😃
 - 👋 Me chamo Thiago Pinheiro do Nascimento.
-- 💬 Sou professor, pesquisador e nas horas vagas artesão de software.
+- 💬 Sou professor, pesquisador e, nas horas vagas, artesão de software.
 - 🎓 Possuo graduação em ciência da computação e mestrado em engenharia elétrica.
 - 👀 Tenho experiência com engenharia de software, banco de dados e inteligência artificial.
 - 🌱 Atualmente estou aprendendo mais sobre Spring, Quarkus, React Native, Keras, Caffe e TensorFlow.
