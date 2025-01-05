@@ -9,7 +9,7 @@
 ### Habilidades
 - Java, PHP, Python e Javascript.
 - HTML5, CSS, Bootstrap e Jquery.
-- React, Angular, React Native.
+- React, Angular e React Native.
 - Spring, Quarkus, VRaptor e Laravel.
 <!---
 thiagopn/thiagopn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
