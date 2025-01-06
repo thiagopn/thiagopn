@@ -11,6 +11,7 @@
 - HTML5, CSS, Bootstrap e Jquery.
 - React, Angular e React Native.
 - Spring, Quarkus, VRaptor e Laravel.
+- MySQL, PostgreSQL, MongoDB e Neo4j.
 - TensorFlow, Keras, Caffe e PyTorch.
 <!---
 thiagopn/thiagopn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
