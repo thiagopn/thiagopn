@@ -11,6 +11,7 @@
 - HTML5, CSS, Bootstrap e Jquery.
 - React, Angular e React Native.
 - Spring, Quarkus, VRaptor e Laravel.
+- TensorFlow e Keras
 <!---
 thiagopn/thiagopn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
