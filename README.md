@@ -1,18 +1,16 @@
-## Bem vindo(a) 😃
-- 👋 Me chamo Thiago Pinheiro do Nascimento.
-- 💬 Sou professor, pesquisador e, nas horas vagas, artesão de software.
-- 🎓 Possuo graduação em ciência da computação e mestrado em engenharia elétrica.
-- 👀 Tenho experiência com engenharia de software, banco de dados e inteligência artificial.
-- 🌱 Atualmente estou aprendendo mais sobre Spring, Quarkus, React Native, Keras, Caffe e TensorFlow.
-- 📫 É possível entrar em contato comigo através dos e-mails thiagopn.dev@gmail.com e thiago.nascimento@unifap.br.
+## 😃 Welcome
+- 👋 My name is Thiago Pinheiro do Nascimento.
+- 💬 I'm a computer science researcher and software craftsman.
+- 🎓 I have a degree in computer science and a master's degree in electrical engineering.
+- 👀 I have a lot of experience with software engineering, database and artificial intelligence.
+- 📫 You can contact me via email at thiagopn.dev@gmail.com and thiago.nascimento@unifap.br.
 
-### Habilidades
-- Java, PHP, Python e Javascript.
-- HTML5, CSS, Bootstrap e Jquery.
-- React, Angular e React Native.
-- Spring, Quarkus, VRaptor e Laravel.
-- MySQL, PostgreSQL, MongoDB e Neo4j.
-- TensorFlow, Keras, Caffe e PyTorch.
+### 🌟 Languages
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
+
+### 🌟 Databases
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original.svg" width="40" height="40"/>
+        
 <!---
 thiagopn/thiagopn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
