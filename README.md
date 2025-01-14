@@ -1,6 +1,6 @@
 ## 😃 Welcome
 - 👋 My name is Thiago Pinheiro do Nascimento.
-- 💬 I'm a computer science researcher and software craftsman.
+- 💬 I'm a computer science researcher and software developer.
 - 🎓 I have a degree in computer science and a master's degree in electrical engineering.
 - 👀 I have a lot of experience with software engineering, database and artificial intelligence.
 
